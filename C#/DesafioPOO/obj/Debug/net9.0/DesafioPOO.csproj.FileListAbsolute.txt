@@ -1,0 +1,14 @@
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\bin\Debug\net9.0\DesafioPOO.exe
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\bin\Debug\net9.0\DesafioPOO.deps.json
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\bin\Debug\net9.0\DesafioPOO.runtimeconfig.json
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\bin\Debug\net9.0\DesafioPOO.dll
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\bin\Debug\net9.0\DesafioPOO.pdb
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\DesafioPOO.dll
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\refint\DesafioPOO.dll
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\DesafioPOO.pdb
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioPOO\obj\Debug\net9.0\ref\DesafioPOO.dll

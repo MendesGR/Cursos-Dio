@@ -1,0 +1,14 @@
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\DesafioSistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\DesafioSistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\DesafioSistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\DesafioSistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\bin\Debug\net9.0\DesafioSistemaDeHospedagem.exe
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\bin\Debug\net9.0\DesafioSistemaDeHospedagem.deps.json
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\bin\Debug\net9.0\DesafioSistemaDeHospedagem.runtimeconfig.json
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\bin\Debug\net9.0\DesafioSistemaDeHospedagem.dll
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\bin\Debug\net9.0\DesafioSistemaDeHospedagem.pdb
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\DesafioSistemaDeHospedagem.dll
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\refint\DesafioSistemaDeHospedagem.dll
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\DesafioSistemaDeHospedagem.pdb
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\DesafioSistemaDeHospedagem.genruntimeconfig.cache
+C:\Users\TI\Desktop\Gabriel\Java\Curso DIO\C#\DesafioSistemaDeHospedagem\obj\Debug\net9.0\ref\DesafioSistemaDeHospedagem.dll
